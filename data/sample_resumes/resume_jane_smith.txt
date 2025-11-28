@@ -1,0 +1,9 @@
+Jane Smith
+Email: jane.smith@example.com
+Phone: +1-555-987-6543
+
+Education
+B.E. IT
+
+Skills
+Python, SQL, Power BI, Pandas, NumPy, Data Visualization

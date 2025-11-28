@@ -1,0 +1,9 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-123-4567
+
+Education
+B.Tech CS
+
+Skills
+Python, Flask, PostgreSQL, Docker, Git, REST APIs
